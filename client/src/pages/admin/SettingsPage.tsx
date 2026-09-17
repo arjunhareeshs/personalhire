@@ -1,0 +1,1 @@
+export default function SettingsPage() { return (<div><h2>Settings</h2><div className="card" style={{ padding: 16 }}>Provider keys (LLM/VLM/STT/TTS) • LiveKit • storage • thresholds. Provider-agnostic.</div></div>) }

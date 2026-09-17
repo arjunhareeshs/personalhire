@@ -1,0 +1,1 @@
+export default function InterviewsPage() { return (<div><h2>Interviews</h2><div className="card" style={{ padding: 16 }}>Status • scores • transcript (lazy) • re-interview • pass/fail. Loads from /admin + /interview/history.</div></div>) }

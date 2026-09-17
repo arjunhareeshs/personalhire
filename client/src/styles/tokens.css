@@ -1,0 +1,36 @@
+:root {
+  --white: #ffffff;
+  --tea-green: #ccd5ae;
+  --beige: #e9edc9;
+  --cornsilk: #fefae0;
+  --papaya-whip: #faedcd;
+  --light-bronze: #d4a373;
+  --black: #050505;
+  --soft-black: #141414;
+  --red: #e5483f;
+  --orange: #f08a24;
+  --blue: #2563eb;
+  --ink: #1f1d1a;
+  --muted-ink: #6f6a5f;
+  --line: #dfd8bf;
+  --paper: #fffdf1;
+  --danger: #e5483f;
+  --warning: #f08a24;
+  --info: #2563eb;
+  --success: #637a46;
+  --interview-bg: #050607;
+  --interview-grid: rgba(255, 255, 255, 0.07);
+  --interview-cyan: #24d9f2;
+  --interview-red: #ff6b63;
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-lg: 18px;
+  --text-xl: 22px;
+  --text-2xl: 28px;
+  --text-3xl: 36px;
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.06), 0 1px 2px -1px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.04);
+  --sidebar-w: 260px;
+}

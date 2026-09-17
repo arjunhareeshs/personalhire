@@ -1,0 +1,1 @@
+export default function ReportsPage() { return (<div><h2>Reports & exports</h2><div className="card" style={{ padding: 16 }}>Candidate PDF • interview PDF • shortlist CSV • background export jobs.</div></div>) }

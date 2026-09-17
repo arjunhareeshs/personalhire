@@ -1,0 +1,1 @@
+export default function ComparePage() { return (<div><h2>Compare candidates</h2><div className="card" style={{ padding: 16 }}>Side-by-side: ATS • role fit • GitHub • LeetCode • interview • notes.</div></div>) }
